@@ -1,6 +1,6 @@
 # futurebag
 
-aplikasi shop futuristik
+aplikasi shop futuristik dengan flutterfire
 
 ## Getting Started
 
