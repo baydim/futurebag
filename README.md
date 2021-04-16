@@ -2,6 +2,9 @@
 
 aplikasi shop futuristik dengan flutterfire
 
+# Design UI
+![alt text](https://github.com/baydim/futurebag/blob/master/assets/Group%2014.png)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
